@@ -1,6 +1,6 @@
 
 const express = require("express")
-const {Game, gameans} = require("../controller/game")
+const { Game, gameans } = require("../controller/Game")
 
 const router = express.Router()
 
