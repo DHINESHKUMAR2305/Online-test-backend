@@ -14,16 +14,17 @@ const historyrouter = require("./router/Historyrouter")
 const gkrouter = require("./router/Gkrouter")
 const connectionn = require("./Connectiondatabase")
 
-connectionn()
-
 
 const app = express()
+
 app.use(cors({
-    origin: '*', // Allow all origins (or specify your Netlify URL: "https://rainbow-kheer-3ecece.netlify.app")
+    origin: '*',
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
     credentials: true
 }))
 app.use(express.json())
+
+connectionn()
 
 app.use(synonymsrouter)
 app.use(antonymsrouter)
