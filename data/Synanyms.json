@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Choose the synonym for 'Happy'",
+        "option1": "Joyful",
+        "option2": "Sad",
+        "option3": "Angry",
+        "option4": "Tired",
+        "answer": "Joyful"
+    },
+    {
+        "question": "Choose the synonym for 'Quick'",
+        "option1": "Slow",
+        "option2": "Rapid",
+        "option3": "Late",
+        "option4": "Delayed",
+        "answer": "Rapid"
+    },
+    {
+        "question": "Choose the synonym for 'Intelligent'",
+        "option1": "Foolish",
+        "option2": "Smart",
+        "option3": "Dull",
+        "option4": "Naive",
+        "answer": "Smart"
+    },
+    {
+        "question": "Choose the synonym for 'Difficult'",
+        "option1": "Easy",
+        "option2": "Hard",
+        "option3": "Simple",
+        "option4": "Effortless",
+        "answer": "Hard"
+    },
+    {
+        "question": "Choose the synonym for 'Beautiful'",
+        "option1": "Ugly",
+        "option2": "Pretty",
+        "option3": "Plain",
+        "option4": "Unattractive",
+        "answer": "Pretty"
+    },
+    {
+        "question": "Choose the synonym for 'Brave'",
+        "option1": "Fearless",
+        "option2": "Cowardly",
+        "option3": "Timid",
+        "option4": "Afraid",
+        "answer": "Fearless"
+    },
+    {
+        "question": "Choose the synonym for 'Strong'",
+        "option1": "Weak",
+        "option2": "Powerful",
+        "option3": "Feeble",
+        "option4": "Fragile",
+        "answer": "Powerful"
+    },
+    {
+        "question": "Choose the synonym for 'Begin'",
+        "option1": "End",
+        "option2": "Start",
+        "option3": "Finish",
+        "option4": "Close",
+        "answer": "Start"
+    },
+    {
+        "question": "Choose the synonym for 'Generous'",
+        "option1": "Selfish",
+        "option2": "Giving",
+        "option3": "Greedy",
+        "option4": "Stingy",
+        "answer": "Giving"
+    },
+    {
+        "question": "Choose the synonym for 'Quiet'",
+        "option1": "Noisy",
+        "option2": "Silent",
+        "option3": "Loud",
+        "option4": "Boisterous",
+        "answer": "Silent"
+    }
+]

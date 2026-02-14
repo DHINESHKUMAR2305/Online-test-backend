@@ -1,0 +1,83 @@
+
+[
+  {
+    "question": "Who was the first President of India?",
+    "option1": "Jawaharlal Nehru",
+    "option2": "Rajendra Prasad",
+    "option3": "S. Radhakrishnan",
+    "option4": "Indira Gandhi",
+    "answer": "Rajendra Prasad"
+  },
+  {
+    "question": "In which year did India gain independence?",
+    "option1": "1945",
+    "option2": "1947",
+    "option3": "1950",
+    "option4": "1952",
+    "answer": "1947"
+  },
+  {
+    "question": "The Great Wall of China was built to protect against whom?",
+    "option1": "Romans",
+    "option2": "Mongols",
+    "option3": "Vikings",
+    "option4": "Persians",
+    "answer": "Mongols"
+  },
+  {
+    "question": "Who invented the printing press?",
+    "option1": "Alexander Graham Bell",
+    "option2": "Johannes Gutenberg",
+    "option3": "Isaac Newton",
+    "option4": "Thomas Edison",
+    "answer": "Johannes Gutenberg"
+  },
+  {
+    "question": "Which ancient civilization built the pyramids?",
+    "option1": "Romans",
+    "option2": "Greeks",
+    "option3": "Egyptians",
+    "option4": "Mayans",
+    "answer": "Egyptians"
+  },
+  {
+    "question": "Who was known as the 'Mahatma'?",
+    "option1": "Subhash Chandra Bose",
+    "option2": "Mahatma Gandhi",
+    "option3": "Bhagat Singh",
+    "option4": "Jawaharlal Nehru",
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "question": "The Taj Mahal was built by which Mughal emperor?",
+    "option1": "Akbar",
+    "option2": "Shah Jahan",
+    "option3": "Aurangzeb",
+    "option4": "Babur",
+    "answer": "Shah Jahan"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "option1": "China",
+    "option2": "Japan",
+    "option3": "Thailand",
+    "option4": "India",
+    "answer": "Japan"
+  },
+  {
+    "question": "Who discovered America in 1492?",
+    "option1": "Vasco da Gama",
+    "option2": "Christopher Columbus",
+    "option3": "Marco Polo",
+    "option4": "Ferdinand Magellan",
+    "answer": "Christopher Columbus"
+  },
+  {
+    "question": "Which famous leader delivered the 'I Have a Dream' speech?",
+    "option1": "Martin Luther King Jr.",
+    "option2": "Abraham Lincoln",
+    "option3": "Nelson Mandela",
+    "option4": "Mahatma Gandhi",
+    "answer": "Martin Luther King Jr."
+  }
+]

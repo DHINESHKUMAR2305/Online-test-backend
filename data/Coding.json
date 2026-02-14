@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What will be the output of the following code? int x = 5; System.out.println(x++);",
+        "option1": "4",
+        "option2": "5",
+        "option3": "6",
+        "option4": "Error",
+        "answer": "5"
+    },
+    {
+        "question": "Which data structure follows FIFO principle?",
+        "option1": "Stack",
+        "option2": "Queue",
+        "option3": "Tree",
+        "option4": "Graph",
+        "answer": "Queue"
+    },
+    {
+        "question": "What is the time complexity of linear search?",
+        "option1": "O(1)",
+        "option2": "O(log n)",
+        "option3": "O(n)",
+        "option4": "O(n^2)",
+        "answer": "O(n)"
+    },
+    {
+        "question": "Which keyword is used to create an object in Java?",
+        "option1": "class",
+        "option2": "object",
+        "option3": "new",
+        "option4": "this",
+        "answer": "new"
+    },
+    {
+        "question": "What will be the output of: for(int i=0;i<3;i++) print(i);",
+        "option1": "0 1 2",
+        "option2": "1 2 3",
+        "option3": "0 1 2 3",
+        "option4": "1 2",
+        "answer": "0 1 2"
+    },
+    {
+        "question": "Which of the following is NOT a programming language?",
+        "option1": "Python",
+        "option2": "Java",
+        "option3": "HTML",
+        "option4": "C++",
+        "answer": "HTML"
+    },
+    {
+        "question": "Which symbol is used for single-line comments in JavaScript?",
+        "option1": "/* */",
+        "option2": "<!-- -->",
+        "option3": "//",
+        "option4": "#",
+        "answer": "//"
+    },
+    {
+        "question": "Which data structure is used for recursion?",
+        "option1": "Queue",
+        "option2": "Array",
+        "option3": "Stack",
+        "option4": "Linked List",
+        "answer": "Stack"
+    },
+    {
+        "question": "What does SQL stand for?",
+        "option1": "Structured Query Language",
+        "option2": "Simple Query Language",
+        "option3": "Sequential Query Language",
+        "option4": "Server Query Language",
+        "answer": "Structured Query Language"
+    },
+    {
+        "question": "Which operator is used to compare both value and type in JavaScript?",
+        "option1": "==",
+        "option2": "=",
+        "option3": "===",
+        "option4": "!=",
+        "answer": "==="
+    }
+]

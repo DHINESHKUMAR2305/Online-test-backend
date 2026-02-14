@@ -1,0 +1,83 @@
+
+[
+    {
+        "question": "Choose the antonym for 'Happy'",
+        "option1": "Joyful",
+        "option2": "Sad",
+        "option3": "Cheerful",
+        "option4": "Excited",
+        "answer": "Sad"
+    },
+    {
+        "question": "Choose the antonym for 'Quick'",
+        "option1": "Fast",
+        "option2": "Rapid",
+        "option3": "Slow",
+        "option4": "Speedy",
+        "answer": "Slow"
+    },
+    {
+        "question": "Choose the antonym for 'Intelligent'",
+        "option1": "Smart",
+        "option2": "Clever",
+        "option3": "Wise",
+        "option4": "Foolish",
+        "answer": "Foolish"
+    },
+    {
+        "question": "Choose the antonym for 'Difficult'",
+        "option1": "Hard",
+        "option2": "Easy",
+        "option3": "Tough",
+        "option4": "Complex",
+        "answer": "Easy"
+    },
+    {
+        "question": "Choose the antonym for 'Beautiful'",
+        "option1": "Attractive",
+        "option2": "Pretty",
+        "option3": "Ugly",
+        "option4": "Charming",
+        "answer": "Ugly"
+    },
+    {
+        "question": "Choose the antonym for 'Brave'",
+        "option1": "Courageous",
+        "option2": "Fearless",
+        "option3": "Bold",
+        "option4": "Cowardly",
+        "answer": "Cowardly"
+    },
+    {
+        "question": "Choose the antonym for 'Strong'",
+        "option1": "Powerful",
+        "option2": "Mighty",
+        "option3": "Weak",
+        "option4": "Sturdy",
+        "answer": "Weak"
+    },
+    {
+        "question": "Choose the antonym for 'Begin'",
+        "option1": "Start",
+        "option2": "Open",
+        "option3": "End",
+        "option4": "Launch",
+        "answer": "End"
+    },
+    {
+        "question": "Choose the antonym for 'Generous'",
+        "option1": "Kind",
+        "option2": "Helpful",
+        "option3": "Selfish",
+        "option4": "Giving",
+        "answer": "Selfish"
+    },
+    {
+        "question": "Choose the antonym for 'Quiet'",
+        "option1": "Silent",
+        "option2": "Calm",
+        "option3": "Peaceful",
+        "option4": "Noisy",
+        "answer": "Noisy"
+    }
+]

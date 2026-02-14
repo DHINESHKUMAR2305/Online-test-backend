@@ -1,0 +1,83 @@
+
+[
+  {
+    "question": "Which is the largest planet in our solar system?",
+    "option1": "Earth",
+    "option2": "Mars",
+    "option3": "Jupiter",
+    "option4": "Saturn",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the national bird of India?",
+    "option1": "Eagle",
+    "option2": "Peacock",
+    "option3": "Parrot",
+    "option4": "Swan",
+    "answer": "Peacock"
+  },
+  {
+    "question": "Which ocean is the largest in the world?",
+    "option1": "Indian Ocean",
+    "option2": "Atlantic Ocean",
+    "option3": "Pacific Ocean",
+    "option4": "Arctic Ocean",
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "Who is known as the Father of the Nation in India?",
+    "option1": "Jawaharlal Nehru",
+    "option2": "Subhash Chandra Bose",
+    "option3": "Mahatma Gandhi",
+    "option4": "Bhagat Singh",
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "option1": "Germany",
+    "option2": "France",
+    "option3": "Canada",
+    "option4": "England",
+    "answer": "France"
+  },
+  {
+    "question": "What is the capital of Tamil Nadu?",
+    "option1": "Coimbatore",
+    "option2": "Madurai",
+    "option3": "Chennai",
+    "option4": "Trichy",
+    "answer": "Chennai"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "option1": "Oxygen",
+    "option2": "Nitrogen",
+    "option3": "Carbon Dioxide",
+    "option4": "Hydrogen",
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "Which is the smallest continent in the world?",
+    "option1": "Europe",
+    "option2": "Australia",
+    "option3": "Antarctica",
+    "option4": "South America",
+    "answer": "Australia"
+  },
+  {
+    "question": "How many colors are there in a rainbow?",
+    "option1": "5",
+    "option2": "6",
+    "option3": "7",
+    "option4": "8",
+    "answer": "7"
+  },
+  {
+    "question": "Which instrument is used to measure temperature?",
+    "option1": "Barometer",
+    "option2": "Thermometer",
+    "option3": "Speedometer",
+    "option4": "Altimeter",
+    "answer": "Thermometer"
+  }
+]

@@ -1,0 +1,84 @@
+
+
+[
+    {
+        "question": "A number is increased by 20% and then decreased by 20%. What is the net change?",
+        "option1": "No change",
+        "option2": "4% increase",
+        "option3": "4% decrease",
+        "option4": "2% decrease",
+        "answer": "4% decrease"
+    },
+    {
+        "question": "If the ratio of boys to girls in a class is 3:2 and there are 15 boys, how many girls are there?",
+        "option1": "8",
+        "option2": "10",
+        "option3": "12",
+        "option4": "15",
+        "answer": "10"
+    },
+    {
+        "question": "What is the next number in the series: 1, 4, 9, 16, ?",
+        "option1": "20",
+        "option2": "24",
+        "option3": "25",
+        "option4": "36",
+        "answer": "25"
+    },
+    {
+        "question": "A shopkeeper marks an item at Rs.500 and gives a discount of 10%. What is the selling price?",
+        "option1": "450",
+        "option2": "460",
+        "option3": "470",
+        "option4": "480",
+        "answer": "450"
+    },
+    {
+        "question": "If the speed of a car is increased from 40 km/hr to 60 km/hr, what is the percentage increase?",
+        "option1": "20%",
+        "option2": "30%",
+        "option3": "40%",
+        "option4": "50%",
+        "answer": "50%"
+    },
+    {
+        "question": "The average of 5 numbers is 20. If one number is excluded, the average becomes 18. What is the excluded number?",
+        "option1": "20",
+        "option2": "25",
+        "option3": "28",
+        "option4": "30",
+        "answer": "28"
+    },
+    {
+        "question": "If A can complete a work in 10 days and B can complete it in 20 days, how many days will they take together?",
+        "option1": "5",
+        "option2": "6.67",
+        "option3": "7.5",
+        "option4": "8",
+        "answer": "6.67"
+    },
+    {
+        "question": "What is the simple interest on Rs.2000 at 5% per annum for 3 years?",
+        "option1": "250",
+        "option2": "300",
+        "option3": "350",
+        "option4": "400",
+        "answer": "300"
+    },
+    {
+        "question": "If the cost price of an item is Rs.400 and it is sold at a profit of 25%, what is the selling price?",
+        "option1": "450",
+        "option2": "480",
+        "option3": "500",
+        "option4": "520",
+        "answer": "500"
+    },
+    {
+        "question": "A train 120 meters long passes a pole in 6 seconds. What is its speed?",
+        "option1": "60 km/hr",
+        "option2": "72 km/hr",
+        "option3": "80 km/hr",
+        "option4": "90 km/hr",
+        "answer": "72 km/hr"
+    }
+]

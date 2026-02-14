@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+    "option1": "Time",
+    "option2": "The letter M",
+    "option3": "Second",
+    "option4": "Clock",
+    "answer": "The letter M"
+  },
+  {
+    "question": "If you have 3 apples and you take away 2, how many apples do you have?",
+    "option1": "1",
+    "option2": "2",
+    "option3": "3",
+    "option4": "0",
+    "answer": "2"
+  },
+  {
+    "question": "Which is heavier: 1 kg of cotton or 1 kg of iron?",
+    "option1": "Cotton",
+    "option2": "Iron",
+    "option3": "Both are same",
+    "option4": "Cannot say",
+    "answer": "Both are same"
+  },
+  {
+    "question": "What has keys but can’t open locks?",
+    "option1": "Door",
+    "option2": "Keyboard",
+    "option3": "Lock",
+    "option4": "Box",
+    "answer": "Keyboard"
+  },
+  {
+    "question": "A man is looking at a photo. He says: 'Brothers and sisters I have none, but that man's father is my father's son.' Who is in the photo?",
+    "option1": "His son",
+    "option2": "His father",
+    "option3": "Himself",
+    "option4": "His uncle",
+    "answer": "His son"
+  },
+  {
+    "question": "What goes up but never comes down?",
+    "option1": "Ball",
+    "option2": "Age",
+    "option3": "Rocket",
+    "option4": "Rain",
+    "answer": "Age"
+  },
+  {
+    "question": "Which word is spelled incorrectly in every dictionary?",
+    "option1": "Wrong",
+    "option2": "Incorrectly",
+    "option3": "Dictionary",
+    "option4": "Spelling",
+    "answer": "Incorrectly"
+  },
+  {
+    "question": "If a plane crashes on the border of India and Pakistan, where are the survivors buried?",
+    "option1": "India",
+    "option2": "Pakistan",
+    "option3": "Border",
+    "option4": "Survivors are not buried",
+    "answer": "Survivors are not buried"
+  },
+  {
+    "question": "What has an eye but cannot see?",
+    "option1": "Needle",
+    "option2": "Human",
+    "option3": "Camera",
+    "option4": "Cyclone",
+    "answer": "Needle"
+  },
+  {
+    "question": "If you answer this question wrong, what will happen?",
+    "option1": "You lose",
+    "option2": "You win",
+    "option3": "Nothing",
+    "option4": "Question is tricky",
+    "answer": "Nothing"
+  }
+]
